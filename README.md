@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @le-kag
-- 👀 I’m interested in Full Stack development, Machine Learning and Web3.
-- 🌱 I’m currently learning Solidity, advanced NLP
-- 💞️ I’m looking to collaborate on ML projects, Web3 projects, anything exciting and useful really.
+- 👋 Hi, I'm Chris
+- 👀 I’m interested in building cool stuff
+- 🌱 I like web3
+- 💞️ I’m looking to do lots of hackathons and creative coding.
 
 <!---
 le-kag/le-kag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

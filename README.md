@@ -3,6 +3,8 @@
 - 🌱 I like web3
 - 💞️ I’m looking to do lots of hackathons and creative coding.
 
+Previous github: https://github.com/Chris-Kag (check it for my past contributions)
+
 "Trailblazers don't simply tread new ground, though, of course they do that. 
 
 What trailblazers do is show us that it is possible to do the undoable, that it is possible to see the un-see-able and that it is possible to be the unbelievable. 

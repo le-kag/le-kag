@@ -3,7 +3,7 @@
 - 🌱 I like web3
 - 💞️ I’m looking to do lots of hackathons and creative coding.
 
-Previous github: https://github.com/Chris-Kag (check it for my past contributions)
+Previous github: https://github.com/Chris-Kag (check it out for my past contributions)
 
 "Trailblazers don't simply tread new ground, though, of course they do that. 
 

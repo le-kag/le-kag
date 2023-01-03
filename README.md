@@ -1,7 +1,5 @@
 - 👋 Hi, I'm Chris
 - 👀 I’m interested in building cool stuff
-- 🌱 I like web3
-- 💞️ I’m looking to do lots of hackathons and creative coding.
 
 Previous github: https://github.com/Chris-Kag (check it out for my past contributions)
 

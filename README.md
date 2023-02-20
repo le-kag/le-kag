@@ -1,4 +1,4 @@
-Prove them wrong.
+Fluid, fast and non-linear
 
 <!---
 le-kag/le-kag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
